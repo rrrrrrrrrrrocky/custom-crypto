@@ -1,0 +1,21 @@
+{
+  "name": "@rrrrrrrrrrr/custom-crypto",
+  "version": "1.0.0",
+  "description": "그냥 해본 암호화",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "rrrrrrrrrrrocky@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "nanoid": "^4.0.2"
+  }
+}
