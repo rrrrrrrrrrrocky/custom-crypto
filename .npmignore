@@ -1,3 +1,6 @@
+.nvmrc
+__test__/
+.github/
+.jest/
 src/
 tsconfig.json
-.nvmrc
